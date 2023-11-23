@@ -17,3 +17,7 @@ S'executarà en un entorn utilitzant:
 * Llenguatge de frontend: Javascript
 
 És possible, que si el projecte s'ha de verificar pels alumnes de Ciberseguretat, s'acabi instal·lant en un Proxmox de l'Institut.
+
+## Inici
+
+Comencem
